@@ -1,8 +1,8 @@
 # CSE4170 and CSEG483 at Sogang University
-![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B)
+[![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B)](https://cppreference.com/w/Main_Page.html)
 [![Static Badge](https://img.shields.io/badge/github-freeglut-blue?logo=github)](https://github.com/freeglut/freeglut)
 [![Static Badge](https://img.shields.io/badge/github-GLM-orange?logo=github)](https://github.com/g-truc/glm)
-![Static Badge](https://img.shields.io/badge/CUDA%20Toolkit-13.1-brightgreen?logo=nvidia)  
+[![Static Badge](https://img.shields.io/badge/CUDA%20Toolkit-13.1-brightgreen?logo=nvidia)](https://docs.nvidia.com/cuda/archive/13.1.1/)  
 
 **CSE4170: Compatible with freeglut 3.8.0.**  
   
