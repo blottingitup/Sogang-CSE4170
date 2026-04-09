@@ -25,3 +25,4 @@ Direct copy is not recommended, but taking reference to *whisk up* some code of 
 * Write a kernel function for 1D Gaussian filtering using grid-stride loop.
 * After issuing a dummy call, measure the average execution time of the kernel function over multiple iterations.
 * Verify that both the host and kernel functions produce the same results.
+* Experiment with variables that affect the overall performance, and provide a summary and analysis of the results.
