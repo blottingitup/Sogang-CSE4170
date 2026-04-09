@@ -127,7 +127,7 @@ int main(void) {
     n_elements = (1 << 26);
     size = n_elements * sizeof(int);
 
- //   int kernel_width = GF_KERNEL_WIDTH; // 1, 3, 5, 7, 9, or 11  
+ 	// int kernel_width = GF_KERNEL_WIDTH; // 1, 3, 5, 7, 9, or 11  
     for (int kernel_width = 1; kernel_width <= _MAX_KERNEL_SIZE_DEVICE; kernel_width += 2) {
         fprintf(stdout, "\n[1D Gaussian filtering of image of %d pixels(KERNEL WIDTH = %d)]",
             n_elements, kernel_width);
